@@ -526,7 +526,6 @@ button::-moz-focus-inner {
 
 .cover__wrapper {
     bottom: 5%;
-    left: -26em;
     position: relative;
     width: 50%;
     max-width: 34%;
